@@ -8,3 +8,9 @@ cmake-build-release/
 data/demo/results/
 
 build/
+
+release/
+
+debug/
+
+tmp/

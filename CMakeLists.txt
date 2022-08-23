@@ -5,6 +5,7 @@ project(INFRASCAL LANGUAGES C CXX)
 
 add_compile_options(-fext-numeric-literals -w)
 
+set(CMAKE_CXX_STANDARD 14)
 
 ########################### Misc. Configs ##############################
 # Add custom cmake files folder
